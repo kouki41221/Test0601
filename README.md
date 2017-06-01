@@ -6,3 +6,9 @@
 * テスト
 * テスト
 ![](https://pbs.twimg.com/profile_images/3406268893/54b7e1f981b7df7c817af48d1b96ad5e_400x400.jpeg)
+
+```java
+public void main(String[] args){
+    System.out.println("abc");
+}
+```
